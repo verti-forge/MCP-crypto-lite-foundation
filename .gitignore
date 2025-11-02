@@ -1,0 +1,28 @@
+# deps
+node_modules/
+
+# env
+.env
+.env.local
+.env.*.local
+
+# build
+dist/
+out/
+
+# runtime data (paper trades, mock prices, bot state)
+data/orders.json
+data/prices.json
+data/state.json
+
+# tests / scratch
+test*.js
+test*.ts
+test*.mjs
+test*.txt
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*

@@ -1,0 +1,6 @@
+{
+  "name": "mcp-crypto-lite",
+  "version": "0.1.0",
+  "description": "Minimal MCP server for BTC trading bot with Hyperliquid integration",
+  "entry": "dist/server.js"
+}
